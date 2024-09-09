@@ -1,6 +1,9 @@
 /**
  * Solve the FizzBuzz challenge.
  */
+
+// I JUST WANNA BE PART OF YOUR SYMPHONY
+
 class FizzBuzz {
 
     public static void main(String[] args) {
